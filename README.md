@@ -9,7 +9,7 @@ Agregar tareas y crear una lista de tareas para hacer, que son almacenadas en la
 - HTML
 - CSS
 
-## **Link para probar el proyecto
+## **Link para probar el proyecto**
 https://lista-tareas-para-hacer.netlify.app/
 
 
